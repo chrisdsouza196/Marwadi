@@ -1,7 +1,10 @@
-﻿# Welcome to StackEdit!
+﻿# Introduction
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
-
+Project Management Tools have a history of being disliked across teams of different sizes, backgrounds and fields. 
+Why? Added overheads, increased accountability, lack of structure/understanding to use.
+When a project management tool fails, more often than not, it’s because of a lack of structure of how to use it. 
+But, the tool should be able to understand how its users would use 
+Since this is an internal project management tool, can be designed specifically for use at Marwadi
 
 ## Files
 
